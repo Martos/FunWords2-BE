@@ -46,3 +46,4 @@ I've created a 2020 version of this project using Typescript. If you might be in
 - Accepted changes in the docker file that was causing MongoDB issues on Windows Subsystem Linux (WSL2) - Ubuntu.
 - If you are new to this project, I highly recommend starting with Typescript first, like we talk about here: https://www.toptal.com/express-js/nodejs-typescript-rest-api-pt-1
 # FunWords2-BE
+# FunWords2-BE
